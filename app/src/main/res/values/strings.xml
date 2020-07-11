@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Cadastro de Aluno</string>
+    <string name="titulo">Cadastro de Aluno</string>
+    <string name="masculino">MASCULINO</string>
+    <string name="feminino">FEMININO</string>
+    <string name="limpar">LIMPAR</string>
+    <string-array name="estado">
+        <item>MG</item>
+        <item>RJ</item>
+        <item>SP</item>
+    </string-array>
+    <string name="ra">RA</string>
+    <string name="nome">Nome</string>
+    <string name="pratica_esporte">Prática Esporte</string>
+    <string name="fuma">Fuma</string>
+    <string name="salvar">SALVAR</string>
+    <string name="buscar">BUSCAR</string>
+    <string name="numero_filhos">N. Filhos</string>
+</resources>
